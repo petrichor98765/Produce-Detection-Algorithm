@@ -1,0 +1,16 @@
+bean
+bitterguard
+bottleguard
+brinjal
+brocolli
+cabbage
+capsicum
+carrot
+cauliflower
+cucumber
+papaya
+potato
+pumpkin
+radish
+tomato
+
